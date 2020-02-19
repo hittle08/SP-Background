@@ -1,4 +1,4 @@
-//This is to apply a background with the SharePoint opacity applied. 
+//This is to apply a background with the SharePoint opacity applied 
 
 <style>
     .ms-backgroundImage {
